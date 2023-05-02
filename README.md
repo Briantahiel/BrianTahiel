@@ -7,6 +7,7 @@ You can take a look at my [<img src="https://user-images.githubusercontent.com/7
 <div align=center>
 Technologies I am learning and working with: <br><br>
 <img src="https://user-images.githubusercontent.com/72633519/188297424-d455a87b-6f8d-4b16-8638-6f5381eec8a7.png" width=30>
+<img src="https://user-images.githubusercontent.com/72633519/235563937-ec975a04-d8c3-4ce4-b064-947e8bcace2e.png" width=30>
 <img src="https://user-images.githubusercontent.com/72633519/224163248-bee94114-2d18-4ef2-b443-2fa5152f2cef.png" width=35>
 <img src="https://user-images.githubusercontent.com/72633519/224162801-b8632a18-d860-4bbe-b847-9c75561253f1.png" width=25>
 <img src="https://user-images.githubusercontent.com/72633519/188297421-e8f0d859-9cb3-4baa-ba53-1d8dd869b88a.png" width=30>
