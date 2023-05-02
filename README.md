@@ -10,7 +10,6 @@ Technologies I am learning and working with: <br><br>
 <img src="https://user-images.githubusercontent.com/72633519/224163248-bee94114-2d18-4ef2-b443-2fa5152f2cef.png" width=35>
 <img src="https://user-images.githubusercontent.com/72633519/224162801-b8632a18-d860-4bbe-b847-9c75561253f1.png" width=25>
 <img src="https://user-images.githubusercontent.com/72633519/188297421-e8f0d859-9cb3-4baa-ba53-1d8dd869b88a.png" width=30>
-<img src="https://user-images.githubusercontent.com/72633519/188297595-721021cf-686b-4e0b-af3f-c5aad2ea5ce1.png" width=30>
 <img src="https://user-images.githubusercontent.com/72633519/188297675-415e5bda-9765-4631-9c41-fba8ac756a8d.png" width=30>
 <img src="https://user-images.githubusercontent.com/72633519/224163400-8403a7cd-7b00-410d-8e97-dd6279afdab6.png" width=35>
 </div><br>
