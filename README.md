@@ -16,7 +16,6 @@ Technologies I am learning and working with: <br><br>
 </div><br>
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning React and its Hooks
 - 👯 I’m looking to collaborate on new challenges
 - 📫 How to reach me: [<img src="https://user-images.githubusercontent.com/72633519/224140548-cfa39b54-4559-44c3-8ba4-92c68db45483.png" width=20 >](https://www.linkedin.com/in/brian-g%C3%B3mez)
 - :dart: I'm zeroing in on learning and improving everyday
