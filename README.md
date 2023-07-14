@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Brian and I love creating, designing, and learning new technologies.<br>
-I am currently pursuing my degree in Programming Technology from the National Technological University (UTN, Argentina) and expected to graduate in the middle of this year.<br>
-Taking the OpenBootcamp course and in the second stage of Alura LATAM and Oracle. ONE Next Education :computer: <br>
+<h4><strong>Hello, I&apos;m Brian</strong>, a university-trained programming technician. National Technological University (UTN, Argentina). With a curious and perfectionist nature, I am always eager to expand my knowledge. My passion for technology has motivated me to pursue various courses and engage in personal projects alongside my university studies. Now that I have successfully completed my academic journey, I am actively seeking an opportunity to contribute to the world of technology. If you have any potential opportunities available, please don&apos;t hesitate to contact me.</h4> :computer: <br>
 You can take a look at my [<img src="https://user-images.githubusercontent.com/72633519/224140548-cfa39b54-4559-44c3-8ba4-92c68db45483.png" width=20>](https://www.linkedin.com/in/brian-g%C3%B3mez) to contact me.
 
 <div align=center>
