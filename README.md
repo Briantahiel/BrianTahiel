@@ -11,9 +11,7 @@ Technologies I am learning and working with: <br><br>
 <img src="https://user-images.githubusercontent.com/72633519/188297421-e8f0d859-9cb3-4baa-ba53-1d8dd869b88a.png" width=30>
 <img src="https://user-images.githubusercontent.com/72633519/188297675-415e5bda-9765-4631-9c41-fba8ac756a8d.png" width=30>
 <img src="https://user-images.githubusercontent.com/72633519/224163400-8403a7cd-7b00-410d-8e97-dd6279afdab6.png" width=35>
-<img src="https://github.com/Briantahiel/BrianTahiel/assets/72633519/dcd15ca5-35cd-449b-b2a0-83f738ab3061" width=60>
-
-
+<img src="https://github.com/Briantahiel/BrianTahiel/assets/72633519/9253de9c-6df2-44b9-a81e-89f75c5b3e02" width=60>
 </div><br>
 
 - 🔭 I’m currently working on personal projects
